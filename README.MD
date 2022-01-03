@@ -18,4 +18,4 @@ A virtual-mouse application that allows the user to control their mouse in real 
 
 ## Demo
 The GIF below shows me completing the [Human Benchmark Aim Test](https://humanbenchmark.com/tests/aim) using this Virtual Mouse application. 
-</br><img src="./output/sample.gif" width="600" height="600">
+</br><img src="./output/sample.gif" width="700" height="600">
