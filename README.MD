@@ -1,8 +1,6 @@
 # Virtual Mouse
-A virtual mouse that allow users to control their mouse via their webcam! It was built using OpenCV & MediaPipe.
 ## Overview
 A virtual-mouse application that allows the user to control their mouse in real time using their webcam.
-
 
 ## Execution
 - Install the dependencies by running `pip install -r requirements.txt`.
